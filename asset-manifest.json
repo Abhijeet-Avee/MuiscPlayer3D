@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://abhijeet-avee.github.io/MuiscPlayer3D/static/css/main.aaab56bf.chunk.css",
+    "main.css": "https://abhijeet-avee.github.io/MuiscPlayer3D/static/css/main.5b5971c7.chunk.css",
     "main.js": "https://abhijeet-avee.github.io/MuiscPlayer3D/static/js/main.3128358e.chunk.js",
     "main.js.map": "https://abhijeet-avee.github.io/MuiscPlayer3D/static/js/main.3128358e.chunk.js.map",
     "runtime-main.js": "https://abhijeet-avee.github.io/MuiscPlayer3D/static/js/runtime-main.d6f2017a.js",
@@ -10,14 +10,14 @@
     "static/js/2.65a05184.chunk.js.map": "https://abhijeet-avee.github.io/MuiscPlayer3D/static/js/2.65a05184.chunk.js.map",
     "index.html": "https://abhijeet-avee.github.io/MuiscPlayer3D/index.html",
     "static/css/2.150d169a.chunk.css.map": "https://abhijeet-avee.github.io/MuiscPlayer3D/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.aaab56bf.chunk.css.map": "https://abhijeet-avee.github.io/MuiscPlayer3D/static/css/main.aaab56bf.chunk.css.map",
+    "static/css/main.5b5971c7.chunk.css.map": "https://abhijeet-avee.github.io/MuiscPlayer3D/static/css/main.5b5971c7.chunk.css.map",
     "static/js/2.65a05184.chunk.js.LICENSE.txt": "https://abhijeet-avee.github.io/MuiscPlayer3D/static/js/2.65a05184.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d6f2017a.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.65a05184.chunk.js",
-    "static/css/main.aaab56bf.chunk.css",
+    "static/css/main.5b5971c7.chunk.css",
     "static/js/main.3128358e.chunk.js"
   ]
 }
